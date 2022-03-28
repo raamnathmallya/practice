@@ -5,6 +5,7 @@ git status
 git status -s
 git add <filename>
 git add -A
+git add -p
 git commit <filename>
 git commit -m "commit the staged"
 git commit -a -m "commit without stage"
@@ -23,5 +24,8 @@ git checkout <otherbranchname>
 git checkout -b <create&enterbranchname>
 git merge <branchname>
 git remote add origin https://folder.git
-git push origin master
+git push origin <branchname>
+git pull
+git pull origin <branchname>
+
 git clone <URL> <yourfoldername>
