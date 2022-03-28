@@ -27,5 +27,5 @@ git remote add origin https://folder.git
 git push origin <branchname>
 git pull
 git pull origin <branchname>
-
 git clone <URL> <yourfoldername>
+git remote -v
