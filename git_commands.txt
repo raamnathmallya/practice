@@ -1,0 +1,27 @@
+git init
+git config --global user.name
+git config --global user.email
+git status
+git status -s
+git add <filename>
+git add -A
+git commit <filename>
+git commit -m "commit the staged"
+git commit -a -m "commit without stage"
+git checkout filename 
+git checkout -f
+git logs
+git log -p -2
+git diff
+git diff --staged
+git rm <filename>
+git rm -f <filename>
+git rm --cached <filename>
+git branch
+git branch <newbranchname>
+git checkout <otherbranchname>
+git checkout -b <create&enterbranchname>
+git merge <branchname>
+git remote add origin https://folder.git
+git push origin master
+git clone <URL> <yourfoldername>
