@@ -7,3 +7,11 @@ for i in range (0,10):
             'previous number', previous_num,
             'sum is',previous_num+i)
     previous_num = i
+
+
+# print characters from a string that are present at even index number
+
+user_str = input ('enter your string: ')
+
+str_length = len (user_str)
+
