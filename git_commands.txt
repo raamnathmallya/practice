@@ -30,4 +30,6 @@ git pull origin <branchname>
 git clone <URL> <yourfoldername>
 git remote -v
 git merge --allow-unrelated-histories <your branch>
-
+git branch -m <new branchname>
+git push origin -u <new name>
+git push origin --delete <old_name>
