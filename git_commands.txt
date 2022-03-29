@@ -29,3 +29,5 @@ git pull
 git pull origin <branchname>
 git clone <URL> <yourfoldername>
 git remote -v
+git merge --allow-unrelated-histories <your branch>
+
