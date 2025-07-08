@@ -1,0 +1,5 @@
+Dockerfile
+FROM bannsec/edex-ui-docker:latest
+RUN chown root:root /opt/edex-ui/node_modules/electron/dist/chrome-sandbox && \
+chmod 4755 /opt/edex-ui/node_modules/electron/dist/chrome-sandbox
+RUN apt-get update
