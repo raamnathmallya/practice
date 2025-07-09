@@ -1,0 +1,220 @@
+2025-07-09 13:47:33,218 - INFO - Scrape request received for title: titanic
+2025-07-09 13:47:33,218 - INFO - Scraping 1337x for: titanic
+2025-07-09 13:47:33,247 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:50:20,117 - INFO - Scrape request received for title: titanic
+2025-07-09 13:50:20,117 - INFO - Scraping YTS for: titanic
+2025-07-09 13:50:20,149 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:50:20,149 - INFO - Scraping 1337x for: titanic
+2025-07-09 13:50:20,199 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:50:21,318 - INFO - Scrape request received for title: titanic
+2025-07-09 13:50:21,318 - INFO - Scraping YTS for: titanic
+2025-07-09 13:50:21,345 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:50:21,345 - INFO - Scraping 1337x for: titanic
+2025-07-09 13:50:21,380 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:50:24,145 - INFO - Scrape request received for title: titanic
+2025-07-09 13:50:24,145 - INFO - Scraping YTS for: titanic
+2025-07-09 13:50:24,176 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:50:24,176 - INFO - Scraping 1337x for: titanic
+2025-07-09 13:50:24,209 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:50:26,347 - INFO - Scrape request received for title: titanic
+2025-07-09 13:50:26,347 - INFO - Scraping YTS for: titanic
+2025-07-09 13:50:26,425 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:50:26,426 - INFO - Scraping 1337x for: titanic
+2025-07-09 13:50:26,446 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:54:47,904 - INFO - Fetching popular movies from TMDB.
+2025-07-09 13:54:48,432 - ERROR - Error fetching popular movies from TMDB: 401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/movie/popular?api_key=YOUR_TMDB_API_KEY&language=en-US&page=1
+2025-07-09 13:54:48,439 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 13:54:49,063 - ERROR - Error fetching monthly releases from TMDB: 401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/discover/movie?api_key=YOUR_TMDB_API_KEY&language=en-US&sort_by=primary_release_date.desc&primary_release_date.gte=2025-07-01&primary_release_date.lte=2025-07-09&page=1
+2025-07-09 13:55:55,953 - INFO - Fetching popular movies from TMDB.
+2025-07-09 13:55:56,647 - ERROR - Error fetching popular movies from TMDB: 401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/movie/popular?api_key=YOUR_TMDB_API_KEY&language=en-US&page=1
+2025-07-09 13:55:56,653 - INFO - Fetching popular movies from TMDB.
+2025-07-09 13:55:57,270 - ERROR - Error fetching popular movies from TMDB: 401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/movie/popular?api_key=YOUR_TMDB_API_KEY&language=en-US&page=1
+2025-07-09 13:55:57,273 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 13:55:57,882 - ERROR - Error fetching monthly releases from TMDB: 401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/discover/movie?api_key=YOUR_TMDB_API_KEY&language=en-US&sort_by=primary_release_date.desc&primary_release_date.gte=2025-07-01&primary_release_date.lte=2025-07-09&page=1
+2025-07-09 13:55:57,888 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 13:55:58,501 - ERROR - Error fetching monthly releases from TMDB: 401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/discover/movie?api_key=YOUR_TMDB_API_KEY&language=en-US&sort_by=primary_release_date.desc&primary_release_date.gte=2025-07-01&primary_release_date.lte=2025-07-09&page=1
+2025-07-09 13:56:07,370 - INFO - Scrape request received for title: titanic
+2025-07-09 13:56:07,371 - INFO - Scraping YTS for: titanic
+2025-07-09 13:56:07,403 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:56:07,403 - INFO - Scraping 1337x for: titanic
+2025-07-09 13:56:07,417 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:56:10,004 - INFO - Scrape request received for title: titanic
+2025-07-09 13:56:10,004 - INFO - Scraping YTS for: titanic
+2025-07-09 13:56:10,021 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:56:10,021 - INFO - Scraping 1337x for: titanic
+2025-07-09 13:56:10,048 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:56:10,963 - INFO - Scrape request received for title: titanic
+2025-07-09 13:56:10,972 - INFO - Scraping YTS for: titanic
+2025-07-09 13:56:11,042 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:56:11,042 - INFO - Scraping 1337x for: titanic
+2025-07-09 13:56:11,067 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:56:15,920 - INFO - Fetching popular movies from TMDB.
+2025-07-09 13:56:16,513 - ERROR - Error fetching popular movies from TMDB: 401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/movie/popular?api_key=YOUR_TMDB_API_KEY&language=en-US&page=1
+2025-07-09 13:56:16,519 - INFO - Fetching popular movies from TMDB.
+2025-07-09 13:56:17,128 - ERROR - Error fetching popular movies from TMDB: 401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/movie/popular?api_key=YOUR_TMDB_API_KEY&language=en-US&page=1
+2025-07-09 13:56:17,132 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 13:56:17,743 - ERROR - Error fetching monthly releases from TMDB: 401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/discover/movie?api_key=YOUR_TMDB_API_KEY&language=en-US&sort_by=primary_release_date.desc&primary_release_date.gte=2025-07-01&primary_release_date.lte=2025-07-09&page=1
+2025-07-09 13:56:17,748 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 13:56:18,355 - ERROR - Error fetching monthly releases from TMDB: 401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/discover/movie?api_key=YOUR_TMDB_API_KEY&language=en-US&sort_by=primary_release_date.desc&primary_release_date.gte=2025-07-01&primary_release_date.lte=2025-07-09&page=1
+2025-07-09 13:56:25,288 - INFO - Fetching popular movies from TMDB.
+2025-07-09 13:56:25,933 - ERROR - Error fetching popular movies from TMDB: 401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/movie/popular?api_key=YOUR_TMDB_API_KEY&language=en-US&page=1
+2025-07-09 13:56:25,941 - INFO - Fetching popular movies from TMDB.
+2025-07-09 13:56:26,551 - ERROR - Error fetching popular movies from TMDB: 401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/movie/popular?api_key=YOUR_TMDB_API_KEY&language=en-US&page=1
+2025-07-09 13:56:26,555 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 13:56:27,165 - ERROR - Error fetching monthly releases from TMDB: 401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/discover/movie?api_key=YOUR_TMDB_API_KEY&language=en-US&sort_by=primary_release_date.desc&primary_release_date.gte=2025-07-01&primary_release_date.lte=2025-07-09&page=1
+2025-07-09 13:56:27,171 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 13:56:27,781 - ERROR - Error fetching monthly releases from TMDB: 401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/discover/movie?api_key=YOUR_TMDB_API_KEY&language=en-US&sort_by=primary_release_date.desc&primary_release_date.gte=2025-07-01&primary_release_date.lte=2025-07-09&page=1
+2025-07-09 13:56:29,349 - INFO - Fetching popular movies from TMDB.
+2025-07-09 13:56:30,033 - ERROR - Error fetching popular movies from TMDB: 401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/movie/popular?api_key=YOUR_TMDB_API_KEY&language=en-US&page=1
+2025-07-09 13:56:30,039 - INFO - Fetching popular movies from TMDB.
+2025-07-09 13:56:30,663 - ERROR - Error fetching popular movies from TMDB: 401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/movie/popular?api_key=YOUR_TMDB_API_KEY&language=en-US&page=1
+2025-07-09 13:56:30,666 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 13:56:31,271 - ERROR - Error fetching monthly releases from TMDB: 401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/discover/movie?api_key=YOUR_TMDB_API_KEY&language=en-US&sort_by=primary_release_date.desc&primary_release_date.gte=2025-07-01&primary_release_date.lte=2025-07-09&page=1
+2025-07-09 13:56:31,277 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 13:56:31,892 - ERROR - Error fetching monthly releases from TMDB: 401 Client Error: Unauthorized for url: https://api.themoviedb.org/3/discover/movie?api_key=YOUR_TMDB_API_KEY&language=en-US&sort_by=primary_release_date.desc&primary_release_date.gte=2025-07-01&primary_release_date.lte=2025-07-09&page=1
+2025-07-09 13:59:19,250 - INFO - Fetching popular movies from TMDB.
+2025-07-09 13:59:20,040 - INFO - Fetching popular movies from TMDB.
+2025-07-09 13:59:20,729 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 13:59:21,491 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 13:59:49,881 - INFO - Scrape request received for title: titanic
+2025-07-09 13:59:49,881 - INFO - Scraping YTS for: titanic
+2025-07-09 13:59:49,972 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:59:49,972 - INFO - Scraping 1337x for: titanic
+2025-07-09 13:59:50,019 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:59:52,288 - INFO - Scrape request received for title: titanic
+2025-07-09 13:59:52,288 - INFO - Scraping YTS for: titanic
+2025-07-09 13:59:52,323 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:59:52,323 - INFO - Scraping 1337x for: titanic
+2025-07-09 13:59:52,408 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:59:53,184 - INFO - Scrape request received for title: titanic
+2025-07-09 13:59:53,185 - INFO - Scraping YTS for: titanic
+2025-07-09 13:59:53,270 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:59:53,271 - INFO - Scraping 1337x for: titanic
+2025-07-09 13:59:53,321 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:59:53,947 - INFO - Scrape request received for title: titanic
+2025-07-09 13:59:53,947 - INFO - Scraping YTS for: titanic
+2025-07-09 13:59:54,046 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:59:54,046 - INFO - Scraping 1337x for: titanic
+2025-07-09 13:59:54,105 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:59:54,526 - INFO - Scrape request received for title: titanic
+2025-07-09 13:59:54,526 - INFO - Scraping YTS for: titanic
+2025-07-09 13:59:54,582 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:59:54,582 - INFO - Scraping 1337x for: titanic
+2025-07-09 13:59:54,678 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 13:59:59,134 - INFO - Fetching popular movies from TMDB.
+2025-07-09 13:59:59,745 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:00:00,358 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:00:01,077 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:00:05,710 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:00:06,315 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:00:07,013 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:00:07,732 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:02:36,781 - INFO - Scrape request received for title: titanic
+2025-07-09 14:02:36,781 - INFO - Scraping YTS for: titanic
+2025-07-09 14:02:36,845 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:02:36,846 - INFO - Scraping 1337x for: titanic
+2025-07-09 14:02:36,905 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:02:38,355 - INFO - Scrape request received for title: titanic
+2025-07-09 14:02:38,355 - INFO - Scraping YTS for: titanic
+2025-07-09 14:02:38,460 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:02:38,460 - INFO - Scraping 1337x for: titanic
+2025-07-09 14:02:38,516 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:02:38,795 - INFO - Scrape request received for title: titanic
+2025-07-09 14:02:38,795 - INFO - Scraping YTS for: titanic
+2025-07-09 14:02:38,932 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:02:38,932 - INFO - Scraping 1337x for: titanic
+2025-07-09 14:02:38,973 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:02:38,991 - INFO - Scrape request received for title: titanic
+2025-07-09 14:02:38,991 - INFO - Scraping YTS for: titanic
+2025-07-09 14:02:39,229 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:02:39,229 - INFO - Scraping 1337x for: titanic
+2025-07-09 14:02:39,279 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:02:39,280 - INFO - Scrape request received for title: titanic
+2025-07-09 14:02:39,280 - INFO - Scraping YTS for: titanic
+2025-07-09 14:02:39,348 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:02:39,348 - INFO - Scraping 1337x for: titanic
+2025-07-09 14:02:39,404 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:03:17,006 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:03:17,791 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:03:18,505 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:03:19,259 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:03:54,382 - INFO - Scrape request received for title: titanic
+2025-07-09 14:03:54,382 - INFO - Scraping YTS for: titanic
+2025-07-09 14:03:54,426 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:03:54,426 - INFO - Scraping 1337x for: titanic
+2025-07-09 14:03:54,481 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:05:53,459 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:05:53,984 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:09:15,645 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:09:16,390 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:09:17,113 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:09:17,731 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:09:53,900 - INFO - Scrape request received for title: titanic
+2025-07-09 14:09:53,901 - INFO - Scraping YTS for: titanic
+2025-07-09 14:09:53,956 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:09:53,956 - INFO - Scraping 1337x for: titanic
+2025-07-09 14:09:53,996 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:09:55,798 - INFO - Scrape request received for title: titanic
+2025-07-09 14:09:55,798 - INFO - Scraping YTS for: titanic
+2025-07-09 14:09:55,865 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:09:55,865 - INFO - Scraping 1337x for: titanic
+2025-07-09 14:09:55,915 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:09:56,427 - INFO - Scrape request received for title: titanic
+2025-07-09 14:09:56,431 - INFO - Scraping YTS for: titanic
+2025-07-09 14:09:56,746 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:09:56,746 - INFO - Scraping 1337x for: titanic
+2025-07-09 14:09:56,815 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:09:57,301 - INFO - Scrape request received for title: titanic
+2025-07-09 14:09:57,301 - INFO - Scraping YTS for: titanic
+2025-07-09 14:09:57,397 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:09:57,397 - INFO - Scraping 1337x for: titanic
+2025-07-09 14:09:57,437 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:10:07,075 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:10:07,816 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:10:08,520 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:10:09,239 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:12:52,432 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:12:53,075 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:12:53,787 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:12:54,506 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:14:24,760 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:14:25,537 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:14:26,243 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:14:26,972 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:14:34,468 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:14:35,062 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:14:35,774 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:14:36,494 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:14:38,539 - INFO - Scrape request received for title: Heads of State
+2025-07-09 14:14:38,539 - INFO - Scraping YTS for: Heads of State
+2025-07-09 14:14:38,595 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/Heads%20of%20State/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:14:38,595 - INFO - Scraping 1337x for: Heads of State
+2025-07-09 14:14:38,633 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/Heads%20of%20State/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:14:38,635 - INFO - Scrape request received for title: Heads of State
+2025-07-09 14:14:38,635 - INFO - Scraping YTS for: Heads of State
+2025-07-09 14:14:38,671 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/Heads%20of%20State/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:14:38,671 - INFO - Scraping 1337x for: Heads of State
+2025-07-09 14:14:38,713 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/Heads%20of%20State/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:15:18,268 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:15:18,990 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:15:19,704 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:15:20,424 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:23:04,288 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:23:05,005 - INFO - Fetching popular movies from TMDB.
+2025-07-09 14:23:05,719 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:23:06,388 - INFO - Fetching monthly releases from TMDB.
+2025-07-09 14:23:22,434 - INFO - Scrape request received for title: titanic
+2025-07-09 14:23:22,434 - INFO - Scraping YTS for: titanic
+2025-07-09 14:23:22,525 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:23:22,525 - INFO - Scraping 1337x for: titanic
+2025-07-09 14:23:22,564 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:23:23,956 - INFO - Scrape request received for title: titanic
+2025-07-09 14:23:23,956 - INFO - Scraping YTS for: titanic
+2025-07-09 14:23:24,062 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:23:24,062 - INFO - Scraping 1337x for: titanic
+2025-07-09 14:23:24,107 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:23:24,622 - INFO - Scrape request received for title: titanic
+2025-07-09 14:23:24,626 - INFO - Scraping YTS for: titanic
+2025-07-09 14:23:24,735 - ERROR - Error accessing YTS: HTTPSConnectionPool(host='yts.mx', port=443): Max retries exceeded with url: /browse-movies/titanic/all/all/0/latest/0/all (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
+2025-07-09 14:23:24,736 - INFO - Scraping 1337x for: titanic
+2025-07-09 14:23:24,791 - ERROR - Error accessing 1337x: HTTPSConnectionPool(host='1337x.to', port=443): Max retries exceeded with url: /search/titanic/1/ (Caused by SSLError(SSLError(1, '[SSL] unknown error (_ssl.c:1000)')))
