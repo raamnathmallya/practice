@@ -1,1 +1,14 @@
-*.log
+# Firebase
+firebase-service-account.json
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Docker
+.dockerignore
+
+# IDE
+.vscode/
+.idea/

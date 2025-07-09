@@ -123,8 +123,12 @@ Here is the day-by-day plan. Begin with Phase 1.
 
 *   **Day 10: Build & Deploy**
     1.  Prepare the app for release. Create an app icon, generate a signed Android App Bundle (AAB).
+        *   **App icon creation:** This involves designing and creating a visually appealing icon for your application. This icon will be displayed on users' devices (e.g., home screen, app drawer) and in app stores. It needs to adhere to platform-specific guidelines (e.g., Android's adaptive icons, iOS icon sizes).
+        *   **AAB generation (Android App Bundle):** An AAB is a publishing format for Android apps that includes all your app's compiled code and resources, but defers APK generation and signing to Google Play. This allows Google Play to optimize the delivery of your app to users based on their device configuration, resulting in smaller downloads. This step typically involves building your Android project in Android Studio or using Gradle commands.
     2.  Write a `Privacy Policy` and `Terms of Service` (can be simple placeholders for a prototype) and host them.
+        *   **Privacy policy hosting:** A privacy policy is a legal document that discloses how your application collects, handles, and processes user data. It's a legal requirement for most apps, especially those distributed through app stores. "Hosting" means making this document publicly accessible, usually on a website or a dedicated page, so users can review it before or during app usage.
     3.  Deploy the backend Docker container to Google Cloud Run.
+        *   **Google Cloud Run deployment:** Google Cloud Run is a managed compute platform that enables you to run stateless containers via web requests or Pub/Sub events. Deploying your backend to Cloud Run means packaging your backend application into a Docker container and then deploying that container to Google's infrastructure, where it will be automatically scaled and managed. This provides a serverless-like experience for your backend.
     4.  **Checkpoint:** You have a signed AAB file and a live backend URL. The app, when installed on a physical device, successfully communicates with the live backend.
     5.  **Commit:** `chore(release): prepare app for deployment and generate signed AAB`.
 

@@ -1,9 +1,0 @@
-Started by user [8mha:////4KysZ3hJ+BhLc4dAj7RJ71GrP2oM1irN/02PFxkKU372AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZu/dLi1CL9xJTczDwAcQdo88AAAAA=[0mraamnathmallya
-Running as SYSTEM
-Building in workspace /var/jenkins_home/workspace/hello-world
-[hello-world] $ /bin/sh -xe /tmp/jenkins13635871562074342849.sh
-+ echo hello world
-hello world
-/tmp/jenkins13635871562074342849.sh: 3: cannot create /home/raamnathmallya/helloworld.txt: Directory nonexistent
-Build step 'Execute shell' marked build as failure
-Finished: FAILURE

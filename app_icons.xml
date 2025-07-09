@@ -1,0 +1,55 @@
+<!--
+    App Icon SVG for "Psst.." - Map-Based Social Event Application
+    Modern, vibrant, and minimalist. Scalable and recognizable.
+-->
+
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Gradient -->
+    <defs>
+        <linearGradient id="bgGradient" x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#36D1C4"/>
+            <stop offset="1" stop-color="#8F5CFF"/>
+        </linearGradient>
+        <linearGradient id="pinGradient" x1="512" y1="250" x2="512" y2="800" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFFFFF" stop-opacity="0.95"/>
+            <stop offset="1" stop-color="#E0E7FF" stop-opacity="0.85"/>
+        </linearGradient>
+    </defs>
+    <rect width="1024" height="1024" rx="220" fill="url(#bgGradient)"/>
+    
+    <!-- Stylized Map Pin -->
+    <g>
+        <ellipse cx="512" cy="480" rx="170" ry="200" fill="url(#pinGradient)" />
+        <ellipse cx="512" cy="520" rx="60" ry="70" fill="#36D1C4" opacity="0.18"/>
+        <!-- Pin tip -->
+        <ellipse cx="512" cy="730" rx="32" ry="60" fill="#8F5CFF" opacity="0.25"/>
+    </g>
+    
+    <!-- Abstract Event Burst (subtle) -->
+    <g>
+        <circle cx="512" cy="420" r="48" fill="#FFB86B" opacity="0.95"/>
+        <g opacity="0.18">
+            <circle cx="512" cy="420" r="68" fill="#FFB86B"/>
+            <circle cx="512" cy="420" r="88" fill="#FFB86B"/>
+        </g>
+        <!-- Calendar dot -->
+        <rect x="500" y="400" width="24" height="12" rx="6" fill="#8F5CFF"/>
+    </g>
+    
+    <!-- Social Connection: Overlapping Circles -->
+    <g>
+        <circle cx="460" cy="370" r="18" fill="#36D1C4" opacity="0.85"/>
+        <circle cx="564" cy="370" r="18" fill="#8F5CFF" opacity="0.85"/>
+        <circle cx="512" cy="350" r="14" fill="#FFB86B" opacity="0.85"/>
+    </g>
+    
+    <!-- Subtle Speech Bubble Outline (suggesting chat/community) -->
+    <g>
+        <path d="M 420 600 Q 400 660 470 670 Q 520 680 604 670 Q 624 660 604 600" stroke="#FFFFFF" stroke-width="18" fill="none" opacity="0.18"/>
+    </g>
+    
+    <!-- App Name (optional, for marketing) -->
+    <!--
+    <text x="512" y="900" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="90" fill="#FFFFFF" font-weight="bold" opacity="0.85">Psst..</text>
+    -->
+</svg>
